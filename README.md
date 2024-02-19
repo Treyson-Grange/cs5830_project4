@@ -28,3 +28,9 @@ To set up the project environment:
 ## Analysis Techniques
 
 Each technique is demonstrated with appropriate visualizations using Seaborn and/or Matplotlib.
+
+## Important Links
+
+Report: [Google Docs](https://docs.google.com/document/d/1_uHO2i2JKADDBGFWtBEDdWbB4L5rg-0Mrkmxr2xr-Sw/edit?usp=sharing)
+
+Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/1kLN96cSxOZiTaoHfYGIN81VMdP-QEhJb0ISpURfhslg/edit?usp=sharing)
