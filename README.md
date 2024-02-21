@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-## Dataset Description
+In this project you will use k-nearest neighbors to predict heart disease in patients and also to predict a variable in a dataset of your choice.
+
+## Dataset Descriptions
 
 ### Part 1
 
-Cleveland Dataset: features columns such as age, sex, chest pain cholestoral, etc. It also shows what patients have been diagnosed with heart disease 0 if no, 1,2,3,4 if yes.
+`Cleveland Dataset`: features columns such as age, sex, chest pain cholestoral, etc. It also shows what patients have been diagnosed with heart disease 0 if no, 1,2,3,4 if yes.
 
 ### Part 2
-
----
 
 ## File Structure
 
@@ -26,6 +26,8 @@ To set up the project environment:
 3. Run `pip install -r requirements.txt` to install required Python packages.
 4. Add a `datasets` folder to the main directory.
 5. Add in the datasets
+
+- You will need the `cleveland.csv`, `cleveland-test-sample.csv`, and `FILLMEIN.csv`
 
 ## Usage
 
