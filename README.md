@@ -8,7 +8,7 @@ In this project you will use k-nearest neighbors to predict heart disease in pat
 
 ### Part 1
 
-`Cleveland Dataset`: features columns such as age, sex, chest pain cholestoral, etc. It also shows what patients have been diagnosed with heart disease 0 if no, 1,2,3,4 if yes.
+`Cleveland Dataset`: features columns such as age, sex, chest pain cholesterol, etc. It also shows what patients have been diagnosed with heart disease 0 if no, 1,2,3,4 if yes.
 
 ### Part 2
 
