@@ -12,6 +12,8 @@ In this project you will use k-nearest neighbors to predict heart disease in pat
 
 ### Part 2
 
+`Predict Students Dropout and Academic Success`: A [dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) created from a higher education institution (acquired from several disjoint databases) related to students enrolled in different undergraduate degrees, such as agronomy, design, education, nursing, journalism, management, social service, and technologies.
+
 ## File Structure
 
 - `project4.ipynb`: Jupyter notebook containing the analysis code.
@@ -27,7 +29,7 @@ To set up the project environment:
 4. Add a `datasets` folder to the main directory.
 5. Add in the datasets
 
-- You will need the `cleveland.csv`, `cleveland-test-sample.csv`, and `FILLMEIN.csv`
+- You will need the `cleveland.csv`, `cleveland-test-sample.csv`, and `data.csv` from [here](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 
 ## Usage
 
